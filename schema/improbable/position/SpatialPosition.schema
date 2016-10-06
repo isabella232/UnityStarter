@@ -1,0 +1,6 @@
+package improbable.position;
+
+component SpatialPosition {
+  id = 10001;
+  EntityPosition position = 1;
+}
